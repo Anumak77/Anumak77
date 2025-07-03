@@ -49,13 +49,6 @@
 
 ---
 
-## Fun Facts
-
-- I love creating, in software, in hardware, and even in yarn!
-- I knit, crochet, and I build PCs from scratch for fun
-
----
-
 ## Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushree-umak-019175227/) 
